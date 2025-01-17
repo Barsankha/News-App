@@ -6,7 +6,7 @@ enum NewsSource { wikimedia, currents }
 
 class ApiService {
   final String currentsApiKey =
-      '2xDyXftBG0rRdHIJa0omLDGTRqtQ1wA04FZpTavpBKk375KW';
+      'your api key';
   final String wikimediaBaseUrl = 'https://en.wikinews.org/w/api.php';
   final String currentsBaseUrl =
       'https://api.currentsapi.services/v1/latest-news';
