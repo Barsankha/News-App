@@ -1,14 +1,32 @@
-# News-App
- International news using custom Ui for the user to use. Read the description of any news and share it among friends.
+📰 News App
 
- Wikimedia API User Authentication Profile Management Dark Mode
-Light Mode
-Fetched and displayed news articles in JSON format using the
-Wikimedia API.
-Enabled users to read and share news articles with friends.
-Implemented user authentication features including login, sign-up,
-and logout.
-Personalized user experience with recommended and explore
-sections for news discovery.
-Developed profile management for user preferences and settings.
-Added dark mode and light mode toggles to improve accessibility
+A modern International News App with a custom Flutter UI, offering users a smooth and visually appealing experience.
+Read, explore, and share news articles from across the world — all in one place.
+
+✨ Features
+
+🌍 Global News Feed — Fetched and displayed news articles in real time using the Wikimedia API.
+
+🗞️ Detailed News View — Read full descriptions of articles and share them easily with friends.
+
+🔐 User Authentication — Includes login, sign-up, and logout functionality for secure access.
+
+👤 Profile Management — Manage your personal preferences and settings effortlessly.
+
+🧭 Explore & Recommendations — Discover personalized and trending news content.
+
+🌓 Dark Mode & Light Mode — Switch seamlessly between themes for improved accessibility and user comfort.
+
+🧠 Tech Stack
+
+Framework: Flutter
+
+API: Wikimedia API
+
+State Management: BLoC
+
+Theme Management: Custom Theme Cubit
+
+Local Storage: Shared Preferences
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/688fab55-6ddd-4b84-89e3-7ec1bdcc09ec" width="250" /> <img src="https://github.com/user-attachments/assets/1b1e0051-5694-4487-ae7c-46827a7e0dbb" width="250" /> <img src="https://github.com/user-attachments/assets/bc23dff2-f7d9-4aa7-89cf-3eef67df351b" width="250" /> <img src="https://github.com/user-attachments/assets/10e2f399-e8a3-40dc-9d24-bbc5f21fe4cf" width="250" /> </p>
